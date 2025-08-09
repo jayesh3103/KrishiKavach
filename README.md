@@ -12,14 +12,6 @@ KrishiKavach is a **React + TypeScript + Vite** powered intelligent farming assi
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** React 18 + TypeScript
-- **Styling:** Tailwind CSS
-- **Build Tool:** Vite
-- **Icons:** Lucide React
-
----
-
 ## 📦 Installation
 
 ```bash
